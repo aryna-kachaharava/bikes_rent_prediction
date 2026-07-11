@@ -12,7 +12,7 @@ The project uses the **Bike Sharing Dataset**, which contains daily records of b
 
 * `cnt` – total number of rented bikes per day.
 
-## 🛠 Technologies
+##  Technologies
 
 * Python
 * Pandas
